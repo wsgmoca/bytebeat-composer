@@ -25,7 +25,7 @@ function fancyDie($message) {
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Bytebeat management</title>
-	<link rel="canonical" href="https://dollchan.net/bytebeat/">
+	<link rel="canonical" href="https://wsgmoca.github.io/bytebeat-composer/">
 	<link rel="shortcut icon" href="favicon.png">
 	<link rel="stylesheet" type="text/css" href="style.css?version=2024103000">
 </head>
